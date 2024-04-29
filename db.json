@@ -1,0 +1,81 @@
+{
+    "users": [
+      {
+        "id": "067c",
+        "name": "Nithin",
+        "email": "nithin.shanmugam@bounteous.com",
+        "todos": [
+          {
+            "text": "Complete react native training",
+            "key": 0,
+            "completed": true,
+            "important": true,
+            "description": "",
+            "endDate": "2024-04-21T15:14:07.905Z",
+            "myDay": true
+          },
+          {
+            "text": "Complete task tikcet",
+            "key": 1,
+            "completed": false,
+            "important": true,
+            "description": "",
+            "endDate": "2024-04-21T15:14:58.388Z",
+            "myDay": true
+          },
+          {
+            "text": "Change your ticket status",
+            "key": 2,
+            "completed": false,
+            "important": true,
+            "description": "",
+            "endDate": "2024-04-28T05:06:56.021Z",
+            "myDay": true
+          },
+          {
+            "text": "Complete assigned course",
+            "key": 3,
+            "completed": false,
+            "important": true,
+            "description": "",
+            "endDate": "2024-04-29T16:44:19.000Z",
+            "myDay": true
+          }
+        ]
+      },
+      {
+        "id": "067c",
+        "name": "Nithin",
+        "email": "nithinshanmugamv@gmail.com",
+        "todos": [
+          {
+            "text": "Complete timesheet",
+            "key": 0,
+            "completed": true,
+            "important": true,
+            "description": "",
+            "endDate": "2024-04-21T15:14:07.905Z",
+            "myDay": true
+          },
+          {
+            "text": "Complete monthly training",
+            "key": 1,
+            "completed": false,
+            "important": true,
+            "description": "",
+            "endDate": "2024-04-21T15:14:58.388Z",
+            "myDay": true
+          },
+          {
+            "text": "Check for app build issues",
+            "key": 2,
+            "completed": false,
+            "important": true,
+            "description": "",
+            "endDate": "2024-04-28T05:06:56.021Z",
+            "myDay": true
+          }
+        ]
+      }
+    ]
+  }
